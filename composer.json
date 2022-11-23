@@ -28,7 +28,8 @@
         "drush-ops/behat-drush-endpoint": "^9.4",
         "pantheon-systems/quicksilver-pushback": "^2.1",
         "drupalcommerce/commerce_base": "9.x",
-        "drupal/jquery_ui_touch_punch": "^1.1"
+        "drupal/jquery_ui_touch_punch": "^1.1",
+        "drupal/commerce_demo": "2.x-dev@dev"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2",
